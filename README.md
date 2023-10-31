@@ -1,6 +1,6 @@
 # 👋 Hi, my name is **Nikita**
 
-## I'm *React developer*
+## I'm *Frontend developer*
 
 ### language and technology 
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript)
